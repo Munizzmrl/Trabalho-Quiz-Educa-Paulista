@@ -67,5 +67,10 @@ O objetivo do projeto é promover aprendizagem interativa, incentivando a práti
 -Streak não aumenta:	Certifique-se de que jogou/logou em dias consecutivos.
 
 
+#LEMBRANDO QUE: 
+
+Para executar o programa, acesse o Caminho Menu_principal\Menu_principal\bin\Debug e rode o aplicativo do mesmo nome do arquivo.
+
+
 
 --Obrigado por jogar, boa sorte!--
